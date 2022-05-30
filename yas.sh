@@ -6,4 +6,4 @@ yas=23
 echo "$isim $yas yaşındadır."
 
 # chmod +x yas.sh -> komutunu kullanarak dosyaya çalıştırma izni veriniz.
-# ./test.sh  -> komutunu kullanarak çalıştırın.
+# ./yas.sh  -> komutunu kullanarak çalıştırın.
